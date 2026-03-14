@@ -1,0 +1,5 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"2NOR layout gpdk090" "2NOR schematic gpdk090" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"

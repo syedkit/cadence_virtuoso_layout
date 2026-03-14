@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell '2NOR layout gpdk090':
+  info: Assign pin label "b" at (5.1300, 3.8200) to layer `Metal2_p'.
+  info: Assign pin label "a" at (5.1800, 4.2200) to layer `Metal2_p'.
+  info: Assign pin label "y" at (7.2900, 3.4100) to layer `Metal2_p'.
+  info: Assign pin label "vss" at (5.4500, 2.0200) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (5.5800, 5.5600) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

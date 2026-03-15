@@ -44,5 +44,5 @@ Resources & References
 Project Code: https://github.com/syedkit/cadence_virtuoso_layout.git
 Video Documentation: https://youtu.be/A-orhMjjW_k?si=_EIsfJQIg-BxL0s5
 
-IMAGES:-
+
  
